@@ -1,0 +1,195 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.container{
+    background-image: url(../images/banner/banner3.png);
+    height: 808px;
+    width: 100%;
+    background-repeat: no-repeat;
+    
+ 
+}
+.contact-h1{
+    position: absolute;
+    width: 525px;
+    height: 228px;
+    left: 845px;
+    top: 216px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    text-align: right;
+    color: #ffffff;
+}
+.contact-p{
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+
+
+    text-align: right;
+
+    color: #FFFFFF;
+
+}
+
+.contact-btn{
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+    color: blue;
+    border: 0px;
+    border-radius: 5px;
+}
+.contact-btn hr{
+    color: blue;
+    margin-bottom: 10px;
+    justify-content: center;
+   
+}
+
+/* Failures section*/
+
+.failure{
+    display: flex;
+    margin-top: 131px;
+    margin-left: 210px;
+    margin-right: 300px;
+}
+.failure-img{
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+    position: absolute;
+}
+.failure-description{
+    position: absolute;
+    width: 416px;
+    height: 400px;
+    left: 862px;
+    top: 1178px;
+}
+.failure-h2{
+    position: absolute;
+    width: 288px;
+    height: 94px;
+    top: 5px;
+
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    font-style: normal;
+    margin-bottom: 10px;
+    color: #151414;
+}
+.failure-p{
+    position:absolute;
+    width: 416px;
+    height: 104px;
+    top: 106px;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+ 
+    
+    color: #444343;
+
+}
+.failure-ul{
+    list-style-type:none;
+    position: absolute;
+    width: 349px;
+    height: 162px;
+    top: 216px;
+    
+ }
+ /*my plans*/
+
+ .plans{
+    position: absolute;
+    height: 47px;
+    left: 765px;
+    top: 1792px;
+    width: 179px;
+ }
+
+ .plan-icon{
+    display: flex;
+    position: absolute;
+width: 1141px;
+height: 202.96px;
+left: 230px;
+top: 1889px;
+justify-content: space-around;
+ }
+.plan{
+ 
+    text-align: center;
+}
+.watch{
+    position: absolute;
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2221.96px;
+    
+    background: url(../images/watch.png);
+    border-radius: 8px;
+}
+
+.gradient{
+    position: absolute;
+width: 1140px;
+height: 300px;
+left: 230px;
+top: 2221.96px;
+background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%);
+border-radius: 8px;
+}
+
+
+ /*footer*/
+
+ .footer
+ {
+    position: absolute;
+    background-color: black;
+    height: 450px;
+    width: 100%;
+    top: 2651.96px;
+    display: flex;
+    color: white;
+
+ }
+ .future{
+    margin: 130px 250px;
+ }
+ .email{
+    padding: 15px 20px;
+    border-radius: 7px;
+    background-color: black;
+
+ }
+ .btn-subscribe{
+    background-color: #005FAC;
+    color: white;
+    padding: 10px 13px;
+    border-radius: 7px;
+ }
